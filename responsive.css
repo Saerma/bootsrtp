@@ -1,0 +1,21 @@
+@media only screen and (max-width: 800px){
+    .navbar-nav{
+        display: flex;
+        justify-content:space-between;
+        margin-left: 0%;
+        margin-right: 20%;
+        font-size: 20px;   
+    }
+    .naves {
+        background-color: rgb(83, 78, 78);  
+    }
+    .titre{
+        text-align: center;
+    }
+    .titre2{
+        margin-left: -5%;
+    }
+    svg {
+        margin-top: 0%; 
+    }
+}
